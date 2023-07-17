@@ -1,3 +1,11 @@
 # estella144.github.io
 
-Is this the main page?
+Welcome to the Github Pages of Oliver, aka estella144.
+
+## Links
+
+[About](/about)
+
+## External Links
+
+[Oliver's Github](https://github.com/estella144)
