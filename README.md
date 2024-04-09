@@ -6,6 +6,7 @@ Welcome to the Github Pages of Oliver, aka estella144.
 
 [About](/about)  
 [Posts](/posts)
+[Projects](/projects)
 
 ## External Links
 

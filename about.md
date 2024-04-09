@@ -4,6 +4,6 @@ permalink: /about
 
 # About
 
-Nothing to see here
+Working on coding projects
 
 [Back](estella144.github.io/)
